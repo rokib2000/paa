@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 h3 h4 h5{
+    color: #454545 !important;
+}
+
+p{
+    color: #919BA1;
+}
+
+.heading{
+    color: #00B0F0;
+}
+
+
+
+/* Header */
+
+/*nav top start*/
+
+.nav_top{
+    padding: 10px 5px;
+    margin: 0;
+    color: #919BA1;
+}
+
+.red_color{
+    color: #E96666;
+}
+
+/*nav top end*/
+
+/*navbar start*/
+
+.nav_bg{
+    background-color: #011826;
+}
+
+.img_bg{
+
+}
+
+.custom_logo{
+    margin-top: -15px;
+    width: 100px;
+}
+
+.nav_menu{}
+.nav_menu ul li .nav-link{
+    color: white!important;;
+}
+
+/*navbar end*/
+
+/*banner start*/
+.b_head{
+    color: #454545 ;
+}
+.b_text{
+    color: #454545 ;
+}
+
+.custom_caption{
+    padding-bottom: 150px;
+}
+
+
+/*baqnner end*/
+
+/*card start*/
+
+.box1{
+    background-color: #435BA1;
+    color: white;
+}
+
+.box2{
+    background-color: #00B0F0;
+    color: white;
+}
+
+.box3{
+    background-color: #43D5CB;
+    color: white;
+}
+
+.box1 p{
+    
+    color: white !important;
+}
+.box2 p{
+    
+    color: white !important;
+}
+.box3 p{
+    
+    color: white !important;
+}
+
+/*card end*/
+
+/*see doctor card start*/
+.dcard_link{
+ text-decoration: none;
+ color: #00B0F0;
+ margin: 0px;
+}
+
+/*see doctor card end*/
+
+/* care section start*/
+
+    .care{
+        background-color: #00B0F0;
+    }
+
+/* care section end*/
+
+/* our team section start*/
+
+.ourteam{
+    background-color: #FAFAFA;
+}
+
+.custom_m{
+    background-color: transparent;
+    border: none;
+}
+
+/* our team section end*/
